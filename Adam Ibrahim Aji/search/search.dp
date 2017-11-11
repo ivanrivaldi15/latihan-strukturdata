@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Dev Pas Project\CL\contoh\depan.dp
+Name=depan
+MainUnit=D:\Dev Pas Project\CL\contoh\Untitled1.pas
+UnitCount=1
+ResFiles=D:\Dev Pas Project\CL\contoh\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Dev Pas Project\CL\contoh\Untitled1.pas
+FileTime=1265339856

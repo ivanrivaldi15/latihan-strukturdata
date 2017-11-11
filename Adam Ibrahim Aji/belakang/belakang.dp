@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Dev Pas Project\CL\contoh\belakang\belakang.dp
+Name=belakang
+MainUnit=D:\Dev Pas Project\CL\contoh\belakang\Untitled1.pas
+UnitCount=1
+ResFiles=D:\Dev Pas Project\CL\contoh\belakang\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Dev Pas Project\CL\contoh\belakang\Untitled1.pas
+FileTime=1265334897

@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Dev Pas Project\CL\contoh\delet depan\deletdepan.dp
+Name=deletdepan
+MainUnit=D:\Dev Pas Project\CL\contoh\delet depan\Untitled1.pas
+UnitCount=1
+ResFiles=D:\Dev Pas Project\CL\contoh\delet depan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Dev Pas Project\CL\contoh\delet depan\Untitled1.pas
+FileTime=1265339957
